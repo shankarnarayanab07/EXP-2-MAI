@@ -6,8 +6,8 @@ To write a python program to find the rank of a matrix
 
 ## Equipment’s required:
 
-1.                  Hardware – PCs
-2.                  Anaconda – Python 3.7 Installation / Moodle-Code Runner
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm:
 
@@ -40,7 +40,7 @@ print(np.linalg.matrix_rank(A))
 
 ## Output:
 
-![alt text](../exp-2.png)
+![alt text](exp-2.png)
 
 ## Result:
 
